@@ -2,6 +2,7 @@
   <img src="https://cdn.freeriderhd.com/free_rider_hd/forum/logo_2.png" alt="Free Rider HD Community Banner">
 </p>
 
+# Welcome
 **Welcome to the official Free Rider HD Community GitHub Organization!**
 
 This is a hub for **developers, creators, and enthusiasts** of Free Rider HD to **collaborate**, **share**, and **build** tools, scripts, mods, and resources that enhance the game experience.
